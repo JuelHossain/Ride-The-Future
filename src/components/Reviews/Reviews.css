@@ -1,0 +1,19 @@
+.reviewPage{
+    margin:20px;
+
+}
+.reviewPage h1{
+    font-size: 50px;
+    text-align: center;
+    padding: 20px 0 0 0;
+    margin:40px 0 0 0;
+}
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,400px);
+    gap:50px;
+    padding: 50px;
+    text-align: center;
+    justify-items:center;
+    justify-content: center;
+}

@@ -3,7 +3,7 @@ import bike from "../../766-Bike.jpg";
 import "./Banner.css";
 const Banner = () => {
     return (
-        <div className="home">
+        <div className="banner">
           <div className="photo">
             <img src={bike} alt="766-bike" />
             <div className="text">
